@@ -43,3 +43,4 @@ In a separate terminal execute:
 `$ npm run start`# Random_NFT_Generator
 # Random_NFT_Generator
 # Random_NFT_Generator
+# Random_NFT_Generator
