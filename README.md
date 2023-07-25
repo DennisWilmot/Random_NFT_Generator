@@ -42,3 +42,4 @@ In a separate terminal execute:
 ### 7. Start frontend
 `$ npm run start`# Random_NFT_Generator
 # Random_NFT_Generator
+# Random_NFT_Generator

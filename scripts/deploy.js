@@ -3,7 +3,7 @@ const hre = require("hardhat");
 async function main() {
   const NAME = "DRIFTERS"
   const SYMBOL = "DVFT"
-  const COST = ethers.utils.parseUnits("1", "ether") // 1 ETH
+  const COST = ethers.utils.parseUnits("0.00000001", "ether") // 1 ETH
 
   const NFT = await hre.ethers.getContractFactory("NFT")
   const nft = await NFT.deploy(NAME, SYMBOL, COST)
